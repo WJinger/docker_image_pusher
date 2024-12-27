@@ -9,3 +9,4 @@ python:alpine
 nginx
 caddy
 portainer/portainer-ce
+hello-word
