@@ -8,4 +8,4 @@
 python:alpine
 nginx
 caddy
-portainer
+portainer/portainer-ce
