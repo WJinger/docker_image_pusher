@@ -5,8 +5,5 @@
 #支持指定架构
 # --platform=linux/arm64 xiaoyaliu/alist
 # #
-python:alpine
-nginx
-caddy
-portainer/portainer-ce
-hello-world
+
+portainer/portainer-ce:2.9.1
